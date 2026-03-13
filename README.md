@@ -1,3 +1,4 @@
+ArithmMeanValueOfArray. C Tutorials. Embarcadero Rad Studio IDE. Simple Input/Output. Arrays. Algorithms. Console application. 
 A console application project written in C in the Embarcadero Rad Studio integrated development environment. 
 Simple input/output. Working with arrays and random numbers. Calculating the arithmetic mean of array elements.
 The program does the following:
@@ -8,6 +9,8 @@ The program does the following:
 5. Divides the result by the number of elements in the array.
 6. The number of array elements and their arithmetic mean value are displayed on the screen.
 
+
+ArithmMeanValueOfArray. Занятия по C. ИС Embarcadero Rad Studio. Простой Ввод-вывод. Массивы. Алгоритмы. Консольное приложение.
 Проект консольного приложения написан на языке программирования C в интегрированной среде Embarcadero Rad Studio. 
 Простой ввод-вывод. Работа с массивами и случайными числами. Рассчёт среднего арифметического значения элементов массива.
 Программа делает следующее:
